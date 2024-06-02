@@ -1,4 +1,4 @@
-# Flight Data Visualization Analysis
+![image](https://github.com/rachelllzy/PekingUniveristy_data_visualization/assets/168006904/9df71d31-5750-4754-ae7a-09cf33ddc867)# Flight Data Visualization Analysis
 
 This repository contains a Jupyter Notebook that performs a comprehensive analysis and visualization of flight data. The primary focus is on data cleaning, preprocessing, and visualization to derive insights about flight prices, schedules, and airline performance.
 
@@ -21,17 +21,24 @@ This repository contains a Jupyter Notebook that performs a comprehensive analys
 
 ## Visualization
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 1.png" alt="图片 1" style="zoom:100%;" /> | <img src="/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 2.png" alt="图片 2" style="zoom:100%;" /> |
-|                                                              |                                                              |
-| ![图片 3](/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 3.png) | ![图片 4](/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 4.png) |
-|                                                              |                                                              |
-| ![图片 5](/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 5.png) | ![图片 6](/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 6.png) |
-|                                                              |                                                              |
-| ![图片 7](/Users/rachelzy/Desktop/STUDY/github_projects/PekingUniveristy_data_visualization/img/图片 7.png) |                                                              |
+### 文献类型的时间变化
+![文献类型的时间变化](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%201.png?raw=true)
 
+### 期刊种类的时间变化趋势
+![期刊种类的时间变化趋势](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%202.png?raw=true)
 
+### 期刊类型分段堆叠折线图
+![期刊类型分段堆叠折线图](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%203.png?raw=true)
+
+### 文献页数类型与发表时间的关系
+![文献页数类型与发表时间的关系](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%204.png?raw=true)
+![文献页数类型与发表时间的关系2](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%205.png?raw=true)
+
+### 全球文献数量的地理分布
+![全球文献数量的地理分布](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%206.png?raw=true)
+
+### 文献作者词云
+![文献作者词云](https://github.com/rachelllzy/PekingUniveristy_data_visualization/blob/main/img/%E5%9B%BE%E7%89%87%207.png?raw=true)
 
 ## Installation
 
