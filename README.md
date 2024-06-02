@@ -1,4 +1,4 @@
-# Flight Data Visualization Analysis
+# Flight and Academic Data Visualization Analysis
 
 This repository contains a Jupyter Notebook that performs a comprehensive analysis and visualization of flight data. The primary focus is on data cleaning, preprocessing, and visualization to derive insights about flight prices, schedules, and airline performance.
 
