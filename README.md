@@ -1,4 +1,4 @@
-![image](https://github.com/rachelllzy/PekingUniveristy_data_visualization/assets/168006904/9df71d31-5750-4754-ae7a-09cf33ddc867)# Flight Data Visualization Analysis
+# Flight Data Visualization Analysis
 
 This repository contains a Jupyter Notebook that performs a comprehensive analysis and visualization of flight data. The primary focus is on data cleaning, preprocessing, and visualization to derive insights about flight prices, schedules, and airline performance.
 
